@@ -1,0 +1,6 @@
+projectKey=sonarqube-python
+serverUrl=http://sonarqube:9000
+serverVersion=25.4.0.105899
+dashboardUrl=http://sonarqube:9000/dashboard?id=sonarqube-python
+ceTaskId=926f4873-541a-4b57-9cc2-2d3c82f4a539
+ceTaskUrl=http://sonarqube:9000/api/ce/task?id=926f4873-541a-4b57-9cc2-2d3c82f4a539
